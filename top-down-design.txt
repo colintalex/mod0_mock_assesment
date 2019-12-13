@@ -1,0 +1,63 @@
+Making a Sandwich
+1 Gather Ingredients
+  1.1 Gather lettuce
+    1.1.1 Go the fridge
+    1.1.2 Select the freshest head of lettuce
+    1.1.3 Set aside
+  1.2 Gather bread
+    1.2.1 Go to pantry
+    1.2.2 Select bread of choice
+    1.2.3 Set aside
+  1.3 Gather condiments
+    1.3.1 Gather Cold Condiments
+      1.3.1.1 Open fridge
+      1.3.1.2 Select Mustard
+      1.3.1.3 Set aside
+    1.3.2 Gather Jalapenos
+      1.3.2.1 Grab whole jalapeno
+      1.3.2.2 Chop jalapeno
+      1.3.2.3 Set aside
+    1.3.3 Gather Mayo
+      1.3.3.1 Open fridge
+      1.3.3.2 Select mayo
+      1.3.3.3 Set aside
+  1.4 Gather Lunch Meat
+    1.4.1 Open fridge
+    1.4.2 Select lunch meat of choice
+    1.4.3 Set aside
+2 Assemble Ingredients
+  2.2 Apply Spread
+    2.2.1 Take 2 bread slices
+      2.2.1.1 Gather from bread bag
+    2.2.2 Apply Spread of Choice
+      2.2.2.1 Place small amount of mustard on bread
+      2.2.2.2 Spread evenly with utensil
+  2.3 Apply Ingredients
+    2.3.1 Place bread
+      2.3.1.1 Side by side
+      2.3.1.2 Mustard Side Up
+    2.3.2 Place Ingredients on One Slice
+      2.3.2.1 Place Lunch Meat
+      2.3.2.2 Place Lettuce
+      2.3.2.3 Place Mayo
+      2.3.2.4 Place Jalapenos
+      2.3.2.5 Place Extra Condiments
+    2.3.3 Top With Other Slice
+      2.3.3.1 Place other bread slice on top
+      2.3.3.2 Press down lightly
+      2.3.3.3 Add Toothpick for stability
+3 Choose Chips & Drink
+  3.2 Select Drink
+    3.2.1 Open fridge
+    3.2.2 Select drink
+    3.2.3 Set aside
+  3.3 Select Chips
+    3.3.1 Open pantry
+    3.3.2 Select chips
+    3.3.3 Set aside
+4 Eat
+ 4.1 Get comfy
+  4.1.1 Grab Food and Drink
+  4.1.2 Sit Down
+  4.1.3 Turn on TV
+ 4.2 Eat
