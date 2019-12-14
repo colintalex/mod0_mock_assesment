@@ -1,10 +1,10 @@
 Dog: Golden Retriever
 
 Attributes:
-dogName ('Mia')
-ownerName ('Colin')
+dogName ("Mia")
+ownerName ("Colin")
 toyQuantity (12)
-furColor ('blonde'')
+furColor ("Blonde")
 treat_array ["BaconBits","PigEar","DentalChew"]
 command_array ["Sit","Stay","Come"]
 vaccinated (false)
@@ -20,10 +20,10 @@ seeVet (vaccinated = true)
 Dog: Dalmation
 
 Attributes:
-dogName ("Pluto"")
+dogName ("Pluto")
 ownerName ("Mickey")
 toyQuantity (6)
-furColor (blue)
+furColor ("Blue")
 treat_array ["Bacon","Cheeseburger","Candy Corn"]
 command_array ["Sit","Stay","Do the Disney dance"]
 vaccinated (true)
