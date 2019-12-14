@@ -1,0 +1,36 @@
+Dog: Golden Retriever
+
+Attributes:
+dogName ('Mia')
+ownerName ('Colin')
+toyQuantity (12)
+furColor ('blonde'')
+treat_array ["BaconBits","PigEar","DentalChew"]
+command_array ["Sit","Stay","Come"]
+vaccinated (false)
+
+
+Methods:
+commandSit (References dogName and an element from command_array)
+rewardDog (Randomly select from treat_array)
+badDog (subtract 1 from toyQuantity)
+seeVet (vaccinated = true)
+
+
+Dog: Dalmation
+
+Attributes:
+dogName ("Pluto"")
+ownerName ("Mickey")
+toyQuantity (6)
+furColor (blue)
+treat_array ["Bacon","Cheeseburger","Candy Corn"]
+command_array ["Sit","Stay","Do the Disney dance"]
+vaccinated (true)
+
+
+Methods:
+commandStay (References command and dogName, "#{dogName} + #{command[1]}")
+rewardDog (Randomly select from treat_array)
+badDog (Subtract 1 from toyQuantity)
+dance (Selects the 2nd index in the command_array)
