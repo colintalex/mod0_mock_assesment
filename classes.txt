@@ -1,0 +1,16 @@
+Class: Dog
+
+Attributes:
+dogName (string)
+ownerName (string)
+toyQuantity (integer)
+furColor (string)
+treat_array (array of strings)
+vaccinated (boolean)
+
+
+Methods:
+commandSit ('dogName + specified command')
+rewardDog (Randomly select from favTreats)
+badDog (Subtract 1 from toyQuantity)
+seeVet (Changes vaccinated to true)
